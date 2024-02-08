@@ -1,236 +1,28 @@
-[INFO] -------------------------------------------------------
-[INFO]  T E S T S
-[INFO] -------------------------------------------------------
-[INFO] Running [1mTestSuite[m
-Current Directory: C:\Users\ryf0\FINAL\NHSN
-SLF4J: No SLF4J providers were found.
-SLF4J: Defaulting to no-operation (NOP) logger implementation
-SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-Jan 16, 2024 12:51:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Jan 16, 2024 12:51:41 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while filling input box
-Error occured while filling input box
-Error occured while filling input box
-Error occured while filling input box
-Error occured fillAddEventsFirstPage
-Error occured while filling input box
-Error occured while filling input box
-Error occured while filling input box
-Error occured while selecting from dropdown
-Error occured fillAddEventsSecondPage
-Error occured while selecting from dropdown
-Error occured fillAddEventsThirdPage
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured fillAddEventsFourthPage
-Error occured while selecting from dropdown
-Error occured fillAddEventsFifthPage
-Jan 16, 2024 12:52:12 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while filling input
-Error occured fillSearchFields
-Jan 16, 2024 12:52:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting from dropdown
-Jan 16, 2024 12:53:20 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting menu
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Jan 16, 2024 12:53:46 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Jan 16, 2024 12:54:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting from dropdown
-Jan 16, 2024 12:54:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting menu
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Jan 16, 2024 12:55:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting menu
-Jan 16, 2024 12:55:36 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting menu
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Jan 16, 2024 12:56:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while filling input box
-Error occured while filling input box
-Error occured addGroup
-Error occured joinGroup
-Error occured leaveGroup
-Jan 16, 2024 12:56:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Jan 16, 2024 12:56:53 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Jan 16, 2024 12:57:19 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Jan 16, 2024 12:57:47 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-04/06/1940
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured fillAddPatientThirdPage
-Jan 16, 2024 12:59:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Jan 16, 2024 1:00:18 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while filling input box
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured fillAddProcedureFifthPage
-Jan 16, 2024 1:01:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while filling input
-Error occured fillSearchFields
-Jan 16, 2024 1:01:59 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting from dropdown
-Error occured while selecting menu
-Jan 16, 2024 1:02:32 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while filling input
-Jan 16, 2024 1:03:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting from dropdown
-Jan 16, 2024 1:03:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while selecting from dropdown
-Error occured while filling input box
-Error occured while filling input box
-Error occured while filling input box
-Error occured while selecting from dropdown
-Error occured fillAddSurveysSecondPage
-Jan 16, 2024 1:04:12 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Error occured while filling input
-Jan 16, 2024 1:04:40 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while selecting from dropdown
-Error occured fillAddUserFirstPage
-Error occured fillAddUserSecondPage
-Error occured while selecting from dropdown
-Error occured fillAddUserThirdPage
-Jan 16, 2024 1:06:02 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-Error occured while filling input
-Error occured while filling input
-[ERROR] [1;31mTests [0;1mrun: [0;1m25[m, [1;31mFailures: [0;1;31m1[m, Errors: 0, Skipped: 0, Time elapsed: 927.3 s[1;31m <<< FAILURE![m -- in [1mTestSuite[m
-[ERROR] test_suites.FacilitySurgeonsPageTest.validateAddFacilitySurgeosPage -- Time elapsed: 12.64 s <<< FAILURE!
-org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//button/span[text()="Add"]"}
-  (Session info: chrome=120.0.6099.217)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.15.0', revision: '1d14b5521b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [8491923c7f9007333f3ffec654eb29ae, findElement {using=xpath, value=//button/span[text()="Add"]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.217, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\ryf0\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51251}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51251/devtoo..., se:cdpVersion: 120.0.6099.217, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 8491923c7f9007333f3ffec654eb29ae
-	at jdk.internal.reflect.GeneratedConstructorAccessor18.newInstance(Unknown Source)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
-	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:364)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:358)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at jdk.proxy2/jdk.proxy2.$Proxy10.isDisplayed(Unknown Source)
-	at page_objects.BasePage.clickAdd(BasePage.java:173)
-	at test_suites.FacilitySurgeonsPageTest.validateAddFacilitySurgeosPage(FacilitySurgeonsPageTest.java:36)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
-	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-	at org.testng.TestRunner.privateRun(TestRunner.java:794)
-	at org.testng.TestRunner.run(TestRunner.java:596)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-	at org.testng.TestNG.runSuites(TestNG.java:1063)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155)
-	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:169)
-	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:88)
-	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137)
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-
+[INFO] Scanning for projects...
 [INFO] 
-[INFO] Results:
+[INFO] [1m---------------------------< [0;36mcom.test:NHSN[0;1m >----------------------------[m
+[INFO] [1mBuilding NHSN 0.0.1-SNAPSHOT[m
+[INFO]   from pom.xml
+[INFO] [1m--------------------------------[ jar ]---------------------------------[m
 [INFO] 
-[ERROR] [1;31mFailures: [m
-[ERROR] [1;31m  FacilitySurgeonsPageTest.validateAddFacilitySurgeosPage:36 » NoSuchElement no such element: Unable to locate element: {"method":"xpath","selector":"//button/span[text()="Add"]"}
-  (Session info: chrome=120.0.6099.217)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.15.0', revision: '1d14b5521b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [8491923c7f9007333f3ffec654eb29ae, findElement {using=xpath, value=//button/span[text()="Add"]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.217, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\ryf0\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51251}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51251/devtoo..., se:cdpVersion: 120.0.6099.217, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 8491923c7f9007333f3ffec654eb29ae[m
+[INFO] [1m--- [0;32mresources:3.3.1:resources[m [1m(default-resources)[m @ [36mNHSN[0;1m ---[m
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\ryf0\Refactor\NHSN\src\main\resources
 [INFO] 
-[ERROR] [1;31mTests run: 25, Failures: 1, Errors: 0, Skipped: 0[m
-[INFO] 
+[INFO] [1m--- [0;32mcompiler:3.11.0:compile[m [1m(default-compile)[m @ [36mNHSN[0;1m ---[m
+[INFO] Changes detected - recompiling the module! :source
+[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[INFO] Compiling 17 source files with javac [debug target 1.8] to target\classes
 [INFO] [1m------------------------------------------------------------------------[m
-[INFO] [1;31mBUILD FAILURE
+[INFO] [1;31mBUILD FAILURE[m
+[INFO] [1m------------------------------------------------------------------------[m
+[INFO] Total time:  1.785 s
+[INFO] Finished at: 2024-02-07T21:00:25-05:00
+[INFO] [1m------------------------------------------------------------------------[m
+[ERROR] Failed to execute goal [32morg.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile[m [1m(default-compile)[m on project [36mNHSN[m: [1;31mFatal error compiling[m: java.lang.IllegalAccessError: class lombok.javac.apt.LombokProcessor (in unnamed module @0x44de3b46) cannot access class com.sun.tools.javac.processing.JavacProcessingEnvironment (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.processing to unnamed module @0x44de3b46 -> [1m[Help 1][m
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[ERROR] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
